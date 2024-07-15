@@ -1,4 +1,3 @@
-Here's a README file for your parking project, with the backend in Django and frontend in React:
 
 ---
 
@@ -67,8 +66,8 @@ Form for existing users to log in.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/parking-management-system.git
-   cd parking-management-system/backend
+  [ git clone https://github.com/repo/parking-management-system.git](https://github.com/kritikaVijaysinghRajput/Parking-System-Assignment)
+   cd folder
    ```
 
 2. **Create a virtual environment**:
@@ -135,12 +134,14 @@ Form for existing users to log in.
 
 ### Login Page
 
-![Login Page][Screenshot 2024-07-15 192807](https://github.com/user-attachments/assets/0f22ec3e-ac2d-43f1-9dba-706f237c6c9b)
+![Login Page]![screencapture-parking-frontend-six-vercel-app-2024-07-15-19_41_51](https://github.com/user-attachments/assets/31ff891b-4e31-4321-8535-edeabaf5ed59)
+
 
 
 ### Home Page
 
 ![Home Page]![screencapture-parking-frontend-six-vercel-app-home-2024-07-15-19_34_03](https://github.com/user-attachments/assets/8771f61a-5e0e-4593-9b96-6da88b1cf3a8)
+
 
 
 
@@ -158,4 +159,20 @@ This project is licensed under the MIT License.
 
 ---
 
-This README covers the necessary details for setting up and running your project, including a clear description of the models, views, functionalities, and steps for installation. Adjust the URLs, repository links, and add screenshots as necessary to fit your specific project.
+### sample user 
+{
+ "username": "john_doe",
+ "password": "password123"
+} 
+
+### deployed links
+
+Frontend : https://parking-frontend-six.vercel.app/
+
+Backend : https://parking-system-api.onrender.com/
+
+---
+
+Kritika Rajput
+Email : kritikarajput203@gmail.com
+
