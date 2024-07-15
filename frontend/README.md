@@ -135,11 +135,14 @@ Form for existing users to log in.
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page][Screenshot 2024-07-15 192807](https://github.com/user-attachments/assets/0f22ec3e-ac2d-43f1-9dba-706f237c6c9b)
+
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page]![screencapture-parking-frontend-six-vercel-app-home-2024-07-15-19_34_03](https://github.com/user-attachments/assets/8771f61a-5e0e-4593-9b96-6da88b1cf3a8)
+
+
 
 ## Contributing
 
